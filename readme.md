@@ -22,7 +22,7 @@
 [링크연결](http://naver.com)
 ---
 
-<p align="center" > 가운데정렬</p>
+<p align="center" > 가운데정렬
 <img src="https://health.chosun.com/site/data/img_dir/2023/06/20/2023062002262_0.jpg" width="120" height="auto">
 
-
+</p>
